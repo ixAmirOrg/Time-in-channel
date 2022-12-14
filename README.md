@@ -1,5 +1,5 @@
 # 🤖 Time in channel Description
-- 🔥This is a robot that adjusts the time on the name and bio of the Telegram account.
+- 🔥This is a robot to set the time and date in the channel description in Telegram.
 - ⚡️ [click here for connect to author](https://t.me/ixAmirCom)
 
 ## ⚙️Edit :
