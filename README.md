@@ -2,6 +2,8 @@
 - 🔥This is a robot to set the time and date in the channel description in Telegram.
 - ⚡️ [click here for connect to author](https://t.me/ixAmirCom)
 
+[راهنمای فارسی](https://github.com/ixAmirCom/Time-in-channel/blob/main/lan/README.fa.md)
+
 ## ⚙️Edit :
 Go to the ` cronjob.php ` file :
 
