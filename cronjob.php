@@ -1,3 +1,4 @@
+<?php
 /*
 ██ ██   ██  █████  ███    ███ ██ ██████   ██████  ██████  ███    ███     
 ██  ██ ██  ██   ██ ████  ████ ██ ██   ██ ██      ██    ██ ████  ████     
@@ -5,8 +6,6 @@
 ██  ██ ██  ██   ██ ██  ██  ██ ██ ██   ██ ██      ██    ██ ██  ██  ██     
 ██ ██   ██ ██   ██ ██      ██ ██ ██   ██  ██████  ██████  ██      ██ on GitHub : https://github.com/ixAmirCom
 */
-
-<?php
 error_reporting(0);
 date_default_timezone_set('Asia/Tehran');
 include('jdf.php');
